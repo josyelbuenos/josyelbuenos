@@ -22,7 +22,7 @@ Certificado em Python, Javascrpt, HTML, C++, C#, Pentest básico e avançado, e 
 <br/>
 Faço parte de comunidades da área de segurança da informação e desenvolvimentos.
 <br>
-Mesmo apesar da idade, sou alguem comu um certi nível de experiencia tanto na área da pogramação, quanto na área de Hacking, além de cursar o ensino fundamental, estudo alguns idiomas, estoicismo, Software Cracking e Hardware Hacking.
+Mesmo apesar da idade, sou alguem com um certo nível de experiencia tanto na área da pogramação, quanto na área de Hacking, além de cursar o ensino fundamental, estudo alguns idiomas, estoicismo, Software Cracking e Hardware Hacking.
 </p>
 
 ### ✨ Curiosidades
