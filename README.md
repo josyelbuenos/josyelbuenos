@@ -1,6 +1,6 @@
-<h1 align="center"> Seja bem vinda e bem vindo! </h1>
+<h1 align="center"> Seja bem vinda e bem vindo! </h1> 
+<img align="right" alt="Foto-De-Perfil" src="imgs\Eu.jpg" width="400px" />
 <hr />
-<a href="https://github.com/josyelbuenos" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
 <p align="left" > 
@@ -11,7 +11,6 @@
 </a><br />
 <p align="left" >
 Me chamo <b>Josyel Bueno</b>.
-<img align="right" src="imgs\Eu.jpg" width="300"/> 
 </p>
 <p align="left" >
 Opaa, e aí, tudo bão?, me chamo Josyel Buenos, tenho 16 anos 🎩🍷<br />
