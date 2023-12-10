@@ -18,7 +18,7 @@ Me chamo <b>Josyel Bueno</b>.
 Opaa, e aí, tudo bão?, me chamo Josyel Buenos, tenho 16 anos 🎩🍷<br />
 Sou pogramador, e hacker ético, focado em desenvolvimento de ferramentas e softwares com principal foco em Pentest ou apenas diversão 🤷🏻‍♂️🍷 </b>. <br/>
 </p>
-Certificiado em Python, Javascrpt, HTML, C++, C#, Pentest básico e avançado, e mais um pouco 💁🏻‍♂️.
+Certificado em Python, Javascrpt, HTML, C++, C#, Pentest básico e avançado, e mais um pouco 💁🏻‍♂️.
 <br/>
 Faço parte de comunidades da área de segurança da informação e desenvolvimentos.
 <br>
