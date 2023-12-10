@@ -11,6 +11,7 @@
 </a><br />
 <p align="left" >
 Me chamo <b>Josyel Bueno</b>.
+<img align="right" src="imgs\Eu.png" width="300"/> 
 </p>
 <p align="left" >
 Opaa, e aí, tudo bão?, me chamo Josyel Buenos, tenho 16 anos 🎩🍷<br />
