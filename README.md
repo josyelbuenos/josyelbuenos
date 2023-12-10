@@ -1,5 +1,5 @@
 <h1 align="center"> Seja bem vinda e bem vindo! </h1> 
- <img align="right" src="imgs\Eu.jpg" width="200"/> 
+ <img align="center" src="imgs\Eu.jpg" width="200"/> 
 <hr />
 </a><br />
 <p align="left" > 
