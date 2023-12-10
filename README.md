@@ -21,6 +21,13 @@ Faço parte de comunidades da área de segurança da informação e desenvolvime
 <br>
 Mesmo apesar da idade, sou alguem comu um certi nível de experiencia tanto na área da pogramação, quanto na área de Hacking, além de cursar o ensino fundamental, estudo alguns idiomas, estoicismo, Software Cracking e Hardware Hacking.
 </p>
+### ✨ Curiosidades
+
+- Sou fã de Harry Potter e MCU.
+- Amo café.
+- Gosto de músicas clássicas e jazz.
+- As vezes faço trocadilhos / piadas ruins.
+- Comida preferida: Pudim e pão com manteiga na chapa.
 
 <hr />
 
