@@ -6,55 +6,28 @@
 <p align="left" > 
   <b>Opaaa, e ai, tudo bão?!</b>
 </p>
-<a href="https://www.instagram.com/strongreen/" target="_blank">
+<a href="https://www.instagram.com/josyelbueno/" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a><br />
 <p align="left" >
-Me chamo <b> Hérika Ströngreen</b>.
+Me chamo <b>Josyel Bueno</b>.
 </p>
-<a href="https://www.youtube.com/herikastrongreen/" target="_blank">
-  <img align="right" src="https://i.ibb.co/kSWhXVq/youtube.png" width="48px" height="48px">
-</a>
 <p align="left" >
-Faallaa Maker, meu nome é Hérika Ströngreen, tenho 29 anos, mas a carinha é de 20 💅.  😅<br />
-Sou Engenheira da Computação, trabalho com Segurança da Informação na @Accenture </b>. <br/>
+Opaa, e aí, tudo bão?, me chamo Josyel Buenos, tenho 16 anos 🎩🍷<br />
+Sou pogramador, e hacker ético, focado em desenvolvimento de ferramentas e softwares com principal foco em Pentest ou apenas diversão 🤷🏻‍♂️🍷 </b>. <br/>
 </p>
-Sou pós-graduanda em IoT, Ethical Hacking & Cyber Security.
+Certificiado em Python, Javascrpt, HTML, C++, C#, Pentest básico e avançado, e mais um pouco 💁🏻‍♂️.
 <br/>
-Faço parte de comunidades da área de segurança da informação e cultura maker.
-<a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
+Faço parte de comunidades da área de segurança da informação e desenvolvimentos.
 <br>
-Sou palestrante em vários eventos de tecnologia, faço academia e estudo Hardware Hacking
-<p align="left" >
-Produzo conteúdos de tecnologia para as plataformas:
-</p>
-<p align="left" >
-<ul>
-  <li><a href="https://youtube.com/herikastrongreen/"> Youtube </a></li>
-  <li><a href="https://instagram.com/strongreen/">Instagram </a></li>
-</ul>
-</p>
-<p align="left" >
-🚀 Também já palestrei em eventos como:
-  <ul>
-  <li> Arduino Day </li>
-  <li> LatinoWare </li>
-  <li> Portal Embarcados </li>
-  <li> Programador real </li>
-  <li> Roadsec </li>
-  <li> Hacking na Web Day </li>
-  <li> Campus Party </li>
-  </ul>
-</p>
+Mesmo apesar da idade, sou alguem comu um certi nível de experiencia tanto na área da pogramação, quanto na área de Hacking, além de cursar o ensino fundamental, estudo alguns idiomas, estoicismo, Software Cracking e Hardware Hacking.
 </p>
 
 <hr />
 
 **Meus interesses pessoais:**
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
+<img align="right" alt="GIF" src="imgs\octocat-1702233970715.png" width="400px" />
 
 - 👩‍💻 Experiências adquiridas trabalhando na *@Accenture* com Segurança da informação:
   - AppSec
