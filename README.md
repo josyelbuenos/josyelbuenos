@@ -4,7 +4,7 @@
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
 <p align="left" > 
-  <b>Opaaa, e ai, tudo bão?!</b>
+  <b>Uma breve apresentação sobre mim 🎩🤵🏻</b>
 </p>
 <a href="https://www.instagram.com/josyelbueno/" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
