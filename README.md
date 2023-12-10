@@ -60,7 +60,7 @@ Mesmo apesar da idade, sou alguem comu um certi nível de experiencia tanto na �
 
 - 💼 Sou aficionado por tecnologia, por este motivo estou sempre estudando e evoluindo na minha carreira;
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josyelbuenosn&layout=compact&theme=graywhite&title_color=268bd2" alt="Josyel-Buenos" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josyelbuenos&layout=compact&theme=graywhite&title_color=268bd2" alt="Josyel-Buenos" />
 </p>
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=josyelbuenos&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Josyel-Buenos" />
