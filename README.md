@@ -1,5 +1,5 @@
 <h1 align="center"> Seja bem vinda e bem vindo! </h1> 
- <img imgs\Eu.jpg/> 
+ <img \imgs\Eu.jpg/> 
 <hr />
 </a><br />
 <a href="https://github.com/josyelbuenos" target="_blank">
