@@ -1,5 +1,7 @@
 <h1 align="center"> Seja bem vinda e bem vindo! </h1> 
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjosyelbuenos"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjosyelbuenos&countColor=%23ba68c8&style=plastic" /></a>
+<p align="center">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fjosyelbuenos"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjosyelbuenos&countColor=%23ba68c8&style=plastic" /></a>
+</p>
 <p align="center">
   <img src="imgs/Eu.jpg"/>
 </p>
