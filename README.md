@@ -1,6 +1,8 @@
 <h1 align="center"> Seja bem vinda e bem vindo! </h1> 
-[Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjosyelbuenos&countColor=%23ba68c8&style=plastic)
- <img \imgs\Eu.jpg/> 
+<p align="center">
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjosyelbuenos&countColor=%23ba68c8&style=plastic)
+</p>
+ <img src="imgs/Eu.jpg"/> 
 <hr />
 </a><br />
 <a href="https://github.com/josyelbuenos" target="_blank">
