@@ -17,7 +17,7 @@
 </a><br />
 
 <p align="left" >
-<b>Josyel Buenos</b>, 17 anos.  
+<b>Josyel Buenos</b>, 18 anos.  
 Programador e hacker ético, com foco em desenvolvimento de ferramentas e softwares voltados para Pentest e segurança da informação.  
 Certificado em Python, JavaScript, HTML, C++, C#, Pentest básico e avançado, entre outras tecnologias.  
 Criador do projeto Oráculo.
